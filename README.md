@@ -15,7 +15,7 @@ Junior web developer from Russia
 
 Projects
 ------
-- 🗺 [mesto](https://ilzira-mur.github.io/mesto/src/index.html)
+- 🗺 [mesto](https://ilzira-mur.github.io/mesto/)
 
 - 🪆 [russian-travel](https://ilzira-mur.github.io/russian-travel/index.html)
 
