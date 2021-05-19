@@ -13,6 +13,14 @@ Junior web developer from Russia
 - Babel
 - Webpack
 
+Projects
+------
+- 🗺 [mesto](https://ilzira-mur.github.io/mesto/src/index.html)
+
+- 🪆 [russian-travel](https://ilzira-mur.github.io/russian-travel/index.html)
+
+- 📚 [how-to-learn](https://ilzira-mur.github.io/how-to-learn/)
+
 Contact
 ------
 
