@@ -15,7 +15,6 @@ Junior web developer from Russia
 
 🧩 Projects
 ------
-- 🗺 [react-mesto-api-full](https://oops.nomoredomains.club)
 - 🗺 [mesto](https://ilzira-mur.github.io/mesto/)
 - 🪆 [russian-travel](https://ilzira-mur.github.io/russian-travel/index.html)
 - 📚 [how-to-learn](https://ilzira-mur.github.io/how-to-learn/)
