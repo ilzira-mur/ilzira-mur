@@ -1,8 +1,8 @@
 #  👋 Hi, I’m ilzira 
 I am junior web developer from Russia
 `{code: [Javascript, HTML, CSS], tools: [React, Express]}`
-🤸‍ I’m currently working on my diploma with Yandex.Practicum course.
-📚 Looking for participation in internship in order to get more skills.
+- 🤸‍ I’m currently working on my diploma with Yandex.Practicum course.
+- 📚 Looking for participation in internship in order to get more skills.
 
 👩‍💻 Skills 
  ------
