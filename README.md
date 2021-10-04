@@ -1,6 +1,6 @@
 #  👋 Hi, I’m ilzira 
 Junior web developer from Russia
-`{code: [Javascript, HTML, CSS], tools: [React]}`
+`{code: [Javascript, HTML, CSS], tools: [React, Express]}`
 
 👩‍💻 Skills 
  ------
