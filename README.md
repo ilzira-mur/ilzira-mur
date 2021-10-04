@@ -1,11 +1,11 @@
 #  👋 Hi, I’m ilzira 
 I am junior web developer from Russia
 `{code: [Javascript, HTML, CSS], tools: [React, Express]}`
-- 🤸‍ I’m currently working on my diploma with Yandex.Practicum course.
-- 📚 Looking for participation in internship in order to get more skills.
+- 🤸‍ I’m currently working on my diploma with Yandex.Practicum.
+- 👀 Looking for participation in internship in order to get more skills.
 
 👩‍💻 Skills 
- ------
+------
 - HTML5 
 - CCS3
 - JavaScript(ES6)
@@ -25,6 +25,15 @@ I am junior web developer from Russia
 ------
 
 ilzira.murtazina@gmail.com
+
+📚 **Plans and desires**
+-----
+- mastering new technologies
+- to work in highly loaded projects
+- to write more clean code
+- to work in a team of experienced professionals
+- learning to analyze the of algorithms
+- improve performance
 
 <!---
 ilzira-mur/ilzira-mur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
