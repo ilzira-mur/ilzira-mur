@@ -1,7 +1,7 @@
 #  👋 Hi, I’m ilzira 
 I am junior web developer from Russia
 `{code: [Javascript, HTML, CSS], tools: [React, Express]}`
-- 🤸‍ I’m currently working on my diploma with Yandex.Practicum.
+- 🤸‍ I’m currently working on my [diploma](https://oops.nomoredomains.club/movies) with Yandex.Practicum. 
 - 👀 Looking for participation in internship in order to get more skills.
 
 👩‍💻 Skills 
@@ -17,6 +17,7 @@ I am junior web developer from Russia
 
 🧩 Projects
 ------
+- 📚 [diploma] (https://oops.nomoredomains.club/movies)
 - 🗺 [mesto](https://ilzira-mur.github.io/mesto/)
 - 🪆 [russian-travel](https://ilzira-mur.github.io/russian-travel/index.html)
 - 📚 [how-to-learn](https://ilzira-mur.github.io/how-to-learn/)
