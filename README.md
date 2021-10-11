@@ -17,7 +17,7 @@ I am junior web developer from Russia
 
 🧩 Projects
 ------
-- 📚 [diploma] (https://oops.nomoredomains.club/movies)
+- 📚 [diploma](https://oops.nomoredomains.club/movies)
 - 🗺 [mesto](https://ilzira-mur.github.io/mesto/)
 - 🪆 [russian-travel](https://ilzira-mur.github.io/russian-travel/index.html)
 - 📚 [how-to-learn](https://ilzira-mur.github.io/how-to-learn/)
@@ -27,7 +27,7 @@ I am junior web developer from Russia
 
 ilzira.murtazina@gmail.com
 
-📚 **Plans and desires**
+🏄‍♀️ **Plans and desires**
 -----
 - mastering new technologies
 - to work in highly loaded projects
