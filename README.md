@@ -17,7 +17,7 @@ I am junior web developer from Russia
 🧩 Projects
 ------
 - 📚 [quotes-maker](https://react-quotes-maker.herokuapp.com/)
-- 📚 [diploma](https://oops.nomoredomains.club/movies)
+- 📚 [diploma](https://diploma-practicum.herokuapp.com/)
 - 🗺 [mesto](https://ilzira-mur.github.io/mesto/)
 - 🪆 [russian-travel](https://ilzira-mur.github.io/russian-travel/index.html)
 - 📚 [how-to-learn](https://ilzira-mur.github.io/how-to-learn/)
